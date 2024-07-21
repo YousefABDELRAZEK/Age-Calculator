@@ -70,9 +70,9 @@ Usage
     Click the "Calculate Age" button.
     Your age will be displayed on the screen.
 
-Contributing
+##Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 License
 
-This project is open-sourced software licensed under the MIT license.
+##This project is open-sourced software licensed under the MIT license.
